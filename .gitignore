@@ -43,6 +43,7 @@ modules.builtin
 /System.map
 /Module.markers
 /Module.symvers
+/zip
 
 #
 # Debian directory (make deb-pkg)
