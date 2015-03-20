@@ -16,7 +16,7 @@ make clean && make mrproper
 
 export ARCH=arm
 export SUBARCH=arm
-make Tyr_defconfig
+make cyanogenmod_ks01lte_defconfig
 make -j$CPU_JOB_NUM
 echo "End of compiling kernel!"
 
